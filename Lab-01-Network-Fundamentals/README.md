@@ -16,7 +16,6 @@ Build a strong foundation in networking by identifying host/network details and 
 - `ping`
 - `tracert` / `traceroute`
 - `nslookup` / `dig`
-- (Optional) `whois`, `nmap` (only on authorized targets)
 
 ## Steps & Evidence
 ### 1) Check local network configuration
