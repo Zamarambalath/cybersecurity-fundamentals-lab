@@ -35,6 +35,8 @@ Each lab includes:
 This repository will be continuously updated as I progress through my cybersecurity learning path.
 ## Labs Completed
 
+Each lab is documented with objectives, tools, steps, observations, and security takeaways.
+
 - **[Lab 01 – Network Fundamentals & Diagnostics](Lab-01-Network-Fundamentals/README.md)**
   - Practiced basic network configuration and connectivity testing
   - Used ipconfig, ping, and nslookup
