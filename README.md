@@ -45,7 +45,7 @@ This repository will be continuously updated as I progress through my cybersecur
   - Assessed impact and severity
   - Documented findings in a structured incident report
  
-  - Lab 03 – Log Analysis Basics
+- [Lab 03 – Log Analysis Basics](Lab-03-Log-Analysis/README.md)
   - Analyzed SSH authentication logs
   - Identified failed and successful login attempts
   - Documented findings and basic security observations
