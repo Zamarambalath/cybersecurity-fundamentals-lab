@@ -49,6 +49,3 @@ This repository will be continuously updated as I progress through my cybersecur
   - Analyzed SSH authentication logs
   - Identified failed and successful login attempts
   - Documented findings and basic security observations
-
-  - 
-
