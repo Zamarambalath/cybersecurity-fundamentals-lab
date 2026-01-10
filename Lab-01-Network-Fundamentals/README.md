@@ -1,46 +1,20 @@
-# Lab 01 — Network Fundamentals & Basic Recon
+## Lab 01 – Network Fundamentals & Diagnostics
 
-## Objective
-Build a strong foundation in networking by identifying host/network details and performing safe reconnaissance on a target domain/IP (legal/authorized targets only).
+### Objective
+Learn basic network configuration and connectivity testing using standard command-line tools.
 
-## What I Practiced
-- IP addressing & subnet basics
-- DNS basics (A/AAAA/CNAME/MX)
-- Connectivity testing (ping, traceroute)
-- Basic recon using safe commands/tools
-- Documentation of findings and takeaways
+### Tools Used
+- ipconfig
+- ping
+- nslookup
 
-## Tools Used
-- Windows CMD / PowerShell (or Linux terminal)
-- `ipconfig` / `ifconfig`
-- `ping`
-- `tracert` / `traceroute`
-- `nslookup` / `dig`
+### Steps Performed
+- Checked local IP address, subnet mask, and default gateway
+- Tested connectivity to localhost and an external website
+- Verified DNS name resolution
 
-## Steps & Evidence
-### 1) Check local network configuration
-- Command: `ipconfig /all` (Windows) or `ifconfig` (Linux)
-- Evidence: Screenshot saved in `/Lab-01-Network-Fundamentals/screenshots/`
+### Evidence
+All command outputs are captured as screenshots in the `screenshots` folder.
 
-### 2) Test connectivity
-- Command: `ping 8.8.8.8` and `ping google.com`
-- Note: Difference between IP ping vs domain ping (DNS resolution)
-- Evidence: Screenshot
-
-### 3) Trace the route
-- Command: `tracert google.com` (Windows) or `traceroute google.com` (Linux)
-- Evidence: Screenshot
-
-### 4) DNS lookup
-- Command: `nslookup google.com`
-- Evidence: Screenshot
-
-## Key Takeaways
-- DNS translates domain names into IP addresses.
-- Traceroute helps visualize hops and latency across the path.
-- Documenting outputs clearly is part of professional security work.
-
-## Next Improvements
-- Add a short subnetting practice section
-- Run `whois` and document results (authorized targets)
-- Add a small nmap scan example on a local lab VM
+### Outcome
+This lab helped build a clear understanding of basic networking concepts and troubleshooting.
