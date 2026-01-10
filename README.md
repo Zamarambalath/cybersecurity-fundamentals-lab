@@ -46,5 +46,3 @@ This repository will be continuously updated as I progress through my cybersecur
   - Documented findings in a structured incident report
 
 
-  - 
-
