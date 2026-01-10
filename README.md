@@ -40,10 +40,10 @@ This repository will be continuously updated as I progress through my cybersecur
   - Used ipconfig, ping, and nslookup
   - Documented findings with screenshots and clear notes
  
-  - **Lab 02 – Incident Analysis**
-- Identified indicators of compromise
-- Assessed impact and severity
-- Documented findings in a structured incident report
+- **Lab 02 – Incident Analysis**
+  - Identified indicators of compromise
+  - Assessed impact and severity
+  - Documented findings in a structured incident report
 
 
   - 
