@@ -4,6 +4,9 @@ This repository documents my hands-on learning journey in cybersecurity, focusin
 
 The purpose of this project is to build a strong foundation in cybersecurity through structured, real-world style exercises and clear documentation.
 
+## About This Project
+This repository showcases my hands-on cybersecurity learning through practical labs focused on networking, incident analysis, log review, and security monitoring. Each lab simulates real-world scenarios and follows a structured documentation approach.
+
 ## Topics Covered
 - Cybersecurity fundamentals
 - System and endpoint security
