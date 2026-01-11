@@ -38,3 +38,9 @@ The pattern may indicate a brute-force attempt that resulted in successful acces
 - Monitoring login behavior is critical for early threat detection
 - Time-based anomalies can indicate compromise
 - Quick response reduces potential impact
+
+## Security Summary
+
+This lab reinforced how small misconfigurations or repeated authentication failures can indicate early-stage attacks.  
+By reviewing system behavior and logs, I practiced identifying patterns that could suggest brute-force attempts or misuse.  
+This highlights the importance of continuous monitoring and structured log analysis in detecting incidents early.
