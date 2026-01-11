@@ -1,22 +1,30 @@
 # Lab 06 – Threat Detection Basics
 
 ## Objective
-To understand how security teams identify potential threats using logs, alerts, and abnormal behavior patterns.
+To understand how basic threat detection works by identifying suspicious activity patterns and distinguishing real threats from normal behavior.
 
 ## Scenario
-A system administrator notices repeated failed login attempts and unusual access times on a server. This lab focuses on identifying what could indicate malicious activity.
+In this lab, I reviewed example security events and login activity to practice identifying potential threats. The focus was on recognizing abnormal behavior rather than performing active attacks.
 
 ## Tools Used
-- Log files (conceptual)
-- Security thinking (no tools used)
+- Sample log data
+- Analyst review techniques
+- Basic security reasoning (no automated tools)
 
 ## Steps Performed
-- Reviewed sample authentication and system activity
-- Identified suspicious patterns such as repeated failures
-- Considered what alerts a SOC analyst would investigate
+- Reviewed login activity and security event examples
+- Looked for unusual patterns such as repeated failures or unexpected access times
+- Considered whether activity could be a false positive or a real threat
+- Documented observations clearly and logically
 
 ## Observations
-Not all suspicious activity is malicious, but patterns and repetition increase risk.
+- Multiple failed login attempts may indicate brute-force activity
+- Successful logins after repeated failures increase risk
+- Activity outside normal working hours can require further investigation
+- Context is critical to avoid false positives
 
 ## Security Takeaways
-Threat detection is about recognizing abnormal behavior early to reduce impact.
+- Threat detection is about recognizing patterns, not just alerts
+- Not all alerts represent real threats
+- Analysts must evaluate context before escalating incidents
+- Strong documentation supports effective security decisions
