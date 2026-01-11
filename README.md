@@ -59,4 +59,9 @@ Each lab is documented with objectives, tools, steps, observations, and security
    - Reviewed security alerts and login anomalies
    - Assessed alert severity and potential risk
    - Documented response actions and security takeaways
+  
+- **Lab 05 – Basic Vulnerability Awareness**
+  - Identified common system and user-level vulnerabilities and risk factors
 
+- **Lab 06 – Threat Detection Basics**
+  - Practiced alert thinking, log review, and basic threat identification
