@@ -53,7 +53,7 @@ Each lab is documented with objectives, tools, steps, observations, and security
   - Documented findings and basic security observations
 
  - [Lab 04 – Security Monitoring & Alert Triage](Lab-04-Security-Monitoring/README.md)
-  - Reviewed security alerts and login anomalies
-  - Assessed alert severity and potential risk
-  - Documented response actions and security takeaways
+   - Reviewed security alerts and login anomalies
+   - Assessed alert severity and potential risk
+   - Documented response actions and security takeaways
 
