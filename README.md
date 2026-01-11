@@ -1,6 +1,9 @@
 # Cybersecurity Fundamentals Lab
 
-This repository documents my hands-on learning journey in cybersecurity, focusing on core technical concepts, practical labs, and security analysis.
+## Overview
+
+This repository documents my hands-on cybersecurity learning journey through structured, real-world style labs.  
+Each lab focuses on developing practical security analysis skills, clear documentation, and foundational threat awareness aligned with entry-level SOC and IT security roles.
 
 The purpose of this project is to build a strong foundation in cybersecurity through structured, real-world style exercises and clear documentation.
 
